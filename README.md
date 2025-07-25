@@ -1,7 +1,8 @@
 # Lane-and-Pothole-Detection-using-Computer-Vision
 A real-time road safety assistance system that detects lane markings and identifies potholes using OpenCV and YOLOv5. This project enhances driver awareness by overlaying detected lanes and potholes on live camera footage.
 
-Features
+**Features**
+
 ✅ Lane Detection using:
 
 Grayscale conversion & Gaussian Blur
