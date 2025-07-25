@@ -1,0 +1,6 @@
+opencv-python
+torch
+numpy
+Pillow
+matplotlib
+ultralytics  # For YOLOv8 or YOLOv5
