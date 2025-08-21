@@ -1,5 +1,5 @@
 # Lane-and-Pothole-Detection-using-Computer-Vision
-A real-time road safety assistance system that detects lane markings and identifies potholes using OpenCV and YOLOv5. This project enhances driver awareness by ov8rlaying detected lanes and potholes on live camera footage.
+A real-time road safety assistance system that detects lane markings and identifies potholes using OpenCV and YOLOv8. This project enhances driver awareness by ov8rlaying detected lanes and potholes on live camera footage.
 
 **Features**
 
@@ -39,7 +39,7 @@ Lane Detection:
   Use Hough Transform to detect lane lines and overlay them
   
 Pothole Detection:
-  Feed frames to a YOLOv5 model
+  Feed frames to a YOLOv8 model
   Detect potholes and return annotated frames with bounding boxes
   
 Combine results → output a frame with both lanes & potholes marked
